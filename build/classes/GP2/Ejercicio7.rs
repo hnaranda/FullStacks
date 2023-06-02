@@ -1,2 +1,0 @@
-Ejercicio7
-Ejercicio71
