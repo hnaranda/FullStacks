@@ -1,5 +1,9 @@
 package gp1;
 
+// Escribir un programa que lea dos números y realice el cálculo de la
+// suma, la resta, la multiplicación y la división entre ambos valores. Los
+// resultados deben mostrarse por pantalla.
+
 import java.util.Scanner;
 
 public class Ejercicio3{

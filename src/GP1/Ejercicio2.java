@@ -1,5 +1,9 @@
 package gp1;
 
+// Escribir un programa en el cual se le pregunte al usuario su nombre. A
+// continuación, mostrar un mensaje que diga ?Hola, ? completando el
+// mensaje con el nombre que ingresó el usuario.
+
 import java.util.Scanner;
 
 public class Ejercicio2{
