@@ -1,5 +1,8 @@
 package gp2;
 
+// Escribir un programa que reciba un número entero por teclado. A
+// continuación, mostrar la tabla de multiplicar de ese número.
+
 import java.util.Scanner;
 
 public class Ejercicio1{

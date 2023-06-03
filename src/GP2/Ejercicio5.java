@@ -1,5 +1,8 @@
 package gp2;
 
+// Escribir un algoritmo que lea un valor n por teclado y muestre los
+// primeros n términos de la sucesión de Fibonacci.
+
 import java.util.Scanner;
 import java.lang.Math.*;
 

@@ -1,5 +1,8 @@
 package gp1;
 
+// Escribir un programa que lea la estatura de tres personas, calcule el
+// promedio de la altura de ellos y lo informe.
+
 import java.util.Scanner;
 
 

@@ -1,5 +1,10 @@
 package gp2;
 
+// Del listado de abajo, determinar qué animal eligió el usuario mediante
+// la realización de tres preguntas del tipo SI/NO acerca de las tres
+// características elegidas (herbívoro, mamífero, doméstico). Mostrar el
+// resultado por pantalla.
+
 import java.util.Scanner;
 
 

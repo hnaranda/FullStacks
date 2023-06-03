@@ -1,5 +1,8 @@
 package gp1;
 
+// Pedir al usuario que ingrese el valor del radio de una circunferencia.
+// Calcular y mostrar por pantalla el área y el perímetro.
+
 import java.util.Scanner;
 import java.lang.Math.*;
 

@@ -1,5 +1,9 @@
 package gp1;
 
+//A partir de una cantidad de pesos que el usuario ingresa a través del
+//teclado se debe obtener su equivalente en dólares, en euros, en
+//guaraníes y en reales.
+
 import java.util.Scanner;
 
 

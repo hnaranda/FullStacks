@@ -1,5 +1,8 @@
 package gp2;
 
+// Escribir un programa que lea una palabra por teclado y determine si
+// es un palíndromo.
+
 import java.util.Scanner;
 
 public class Ejercicio2{

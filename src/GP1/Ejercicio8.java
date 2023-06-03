@@ -1,5 +1,8 @@
 package gp1;
 
+// Pedir al usuario que ingrese una temperatura en grados Celsius y
+// mostrar por pantalla su equivalente en kelvin y grados Fahrenheit.
+
 import java.util.Scanner;
 
 

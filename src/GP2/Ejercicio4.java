@@ -1,5 +1,8 @@
 package gp2;
 
+// Escribir un algoritmo que calcule el factorial de un número ingresado
+// por teclado.
+
 import java.util.Scanner;
 
 

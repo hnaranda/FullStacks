@@ -1,5 +1,8 @@
 package gp2;
 
+// Escribir un algoritmo que imprima el listado de los números primos
+// menores que 200. Aclaración: el número 1 no es primo.
+
 public class Ejercicio6	{
  public static void main(String args[]){
   

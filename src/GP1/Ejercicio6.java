@@ -1,5 +1,9 @@
 package gp1;
 
+// Pedir al usuario que ingrese el precio de un producto y el porcentaje
+// de descuento. A continuación mostrar por pantalla el importe
+// descontado y el importe a pagar.
+
 import java.util.Scanner;
 
 

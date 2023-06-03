@@ -1,5 +1,8 @@
 package gp2;
 
+// Escribir un programa que ordene un arreglo de números enteros de
+// manera ascendente.
+
 import java.util.Scanner;
 import java.util.Arrays;
 
