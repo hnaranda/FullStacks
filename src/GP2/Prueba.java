@@ -10,6 +10,6 @@ package GP2;
  */
 public class Prueba {
     
-    System.out.print ("prueba");
+    System.out.println ("prueba");
     
 }
